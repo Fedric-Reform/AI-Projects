@@ -30,7 +30,7 @@ jobs:
       - name: 📝 Save Python Script
         # Create the Python file directly in the runner environment
         run: |
-          AI_Projects.py
+          python AI_Projects.py
           
       - name: 🚀 Run Scraper
         run: python scraper.py
