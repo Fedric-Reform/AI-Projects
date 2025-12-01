@@ -11,23 +11,23 @@ Virtuals Protocol,VIRTUAL,@virtuals_io,virtual-protocol
 The Graph,GRT,@graphprotocol,the-graph
 Theta Network,THETA,@Theta_Network,theta-token
 Arweave,AR,@arweaveeco,arweave
-0G,0G,@0G_Foundation,zero-gravity
 Golem,GLM,@golemproject,golem
+0G,0G,@0G_Foundation,zero-gravity
 OriginTrail,TRAC,@origin_trail,origintrail
 Aethir,ATH,@AethirCloud,aethir
 Kite,KITE,@GoKiteAI,kite-2
 Livepeer,LPT,@Livepeer,livepeer
 DeXe,DEXE,N/A,dexe
-pippin,PIPPIN,@pippinlovesyou,pippin
 KAITO,KAITO,@kaitoai,kaito
+pippin,PIPPIN,@pippinlovesyou,pippin
 Theta Fuel,TFUEL,@Theta_Network,theta-fuel
 AIOZ Network,AIOZ,@aioznetwork,aioz-network
 Grass,GRASS,@grass,grass
 Akash Network,AKT,@akashnet_,akash-network
-Arkham,ARKM,@arkham,arkham
 Alchemist AI,ALCH,@alchemistAIapp,alchemist-ai
-AWE Network,AWE,@awenetwork_ai,stp-network
+Arkham,ARKM,@arkham,arkham
 ChainOpera AI,COAI,@ChainOpera_AI,chainopera-ai
+AWE Network,AWE,@awenetwork_ai,stp-network
 Unibase,UB,@Unibase_AI,unibase
 Sahara AI,SAHARA,@SaharaLabsAI,sahara-ai
 Qubic,QUBIC,@_Qubic_,qubic-network
@@ -38,53 +38,52 @@ IoTeX,IOTX,@iotex_io,iotex
 Lagrange,LA,@lagrangefndn,lagrange
 ZIGChain,ZIG,@ZIGChain,zignaly
 Pieverse,PIEVERSE,@pieverse_io,pieverse
-Recall,RECALL,@recallnet,recall
 TAGGER,TAG,@taggerai,tagger
-SQD,SQD,@hellosqd,subsquid
+Recall,RECALL,@recallnet,recall
 ElizaOS,ELIZAOS,@ElizaEcoFund,elizaos
+SQD,SQD,@hellosqd,subsquid
 io.net,IO,@ionet,io
-Celium,SN51,@lium_io,celium
 iExec RLC,RLC,@iEx_ec,iexec-rlc
+Celium,SN51,@lium_io,celium
+CYBER,CYBER,@BuildOnCyber,cyberconnect
 OpenLedger,OPEN,@OpenledgerFdn,openledger-2
 OKZOO,AIOT,@okzoo_app,okzoo
-CYBER,CYBER,@BuildOnCyber,cyberconnect
 Chromia,CHR,@chromia,chromaway
+Swarm Network,TRUTH,@GetSwarmed,swarm-network
 tokenbot,CLANKER,N/A,tokenbot-2
 Flux,FLUX,@runonflux,zelcash
-Ridges AI,SN62,N/A,ridges-ai
 IQ,IQ,@IQAICOM,everipedia
-AI Rig Complex,ARC,@arcdotfun,ai-rig-complex
-aixbt,AIXBT,@aixbt_agent,aixbt
-Secret,SCRT,@secretnetwork,secret
 Ocean Protocol,OCEAN,@oceanprotocol,ocean-protocol
-Swarm Network,TRUTH,@GetSwarmed,swarm-network
+Ridges AI,SN62,N/A,ridges-ai
+Secret,SCRT,@secretnetwork,secret
+aixbt,AIXBT,@aixbt_agent,aixbt
 Targon,SN4,@manifoldlabs,targon
+AI Rig Complex,ARC,@arcdotfun,ai-rig-complex
+Delysium,AGI,@The_Delysium,delysium
 Venice Token,VVV,@AskVenice,venice-token
 CARV,CARV,@carv_official,carv
-Delysium,AGI,@The_Delysium,delysium
 Marlin,POND,@marlinprotocol,marlin
 Zentry,ZENT,@zentry,zentry
+Arcblock,ABT,@ArcBlock_io,arcblock
 PHALA,PHA,N/A,pha
 Proprietary Trading Network,SN8,@taoshiio,proprietary-trading-network
-Arcblock,ABT,@ArcBlock_io,arcblock
 DeAgentAI,AIA,@DeAgentAI,aia
 ao Computer,AO,@aoTheComputer,ao-computer
 Auki,AUKI,@Auki,auki-labs
 dKargo,DKA,@dKargo_Official,dkargo
 Cookie DAO,COOKIE,@cookiedotfun,cookie
 Freysa AI,FAI,@freysa_ai,freysa-ai
-UnifAI Network,UAI,@UnifaiNetwork,unifai-network
 Victoria VR,VR,@VictoriaVRcom,victoria-vr
 ChainGPT,CGPT,@Chain_GPT,chaingpt
+UnifAI Network,UAI,@UnifaiNetwork,unifai-network
 Treasure,MAGIC,N/A,magic
 FLOCK,FLOCK,@flock_io,flock-2
 Allora,ALLO,@AlloraNetwork,allora
 Mira,MIRA,@Mira_Network,mira-3
 Sapien,SAPIEN,@joinsapien,sapien-2
-affine,SN120,N/A,affine
 Amiko,AMIKO,@Hey_Amiko,amiko
+affine,SN120,N/A,affine
 Velvet,VELVET,@velvet_capital,velvet
-SingularityNET,AGIX,@SingularityNET,singularitynet
 Holoworld,HOLO,@HoloworldAI,holoworld
 Destra Network,DSYNC,@destranetwork,destra-network
 Capx AI,CAPX,@0xcapx,capx-ai
@@ -92,10 +91,10 @@ Autonolas,OLAS,@autonolas,autonolas
 Artificial Liquid Intelligence,ALI,@real_alethea,alethea-artificial-liquid-intelligence-token
 τemplar,SN3,N/A,templar
 Saga,SAGA,@Sagaxyz__,saga-2
-Gradients,SN56,N/A,gradients
 Newton Protocol,NEWT,@newtfoundation,newton-protocol
-Thought,THT,@thought_THT,thought
+Gradients,SN56,N/A,gradients
 BankrCoin,BNKR,@bankrbot,bankercoin-2
+Thought,THT,@thought_THT,thought
 Nillion,NIL,@nillion,nillion
 Foom,FOOM,@foomclub,foom
 INFINIT,IN,@Infinit_Labs,infinit
@@ -104,148 +103,149 @@ Solidus Ai Tech,AITECH,@AITECHio,solidus-aitech
 Oraichain,ORAI,@oraichain,oraichain-token
 GRIFFAIN,GRIFFAIN,@griffaindotcom,griffain
 Kled AI,KLED,@useKled,kled-ai
-Vanar Chain,VANRY,@Vanarchain,vanar-chain
 OlaXBT,AIO,@olaxbt_terminal,olaxbt
-Infinity Ground,AIN,@infinityg_ai,infinity-ground
 GAME by Virtuals,GAME,@GAME_Virtuals,game-by-virtuals
+Infinity Ground,AIN,@infinityg_ai,infinity-ground
+Vanar Chain,VANRY,@Vanarchain,vanar-chain
 Phoenix,PHB,@Phoenix_Chain,phoenix-global
 iota,SN9,N/A,iota-2
 Humans.ai,HEART,@humansdotai,humans-ai
 OORT,OORT,@oortech,oort
+The Innovation Game,TIG,@tigfoundation,the-innovation-game
 OpenKaito,SN5,N/A,openkaito
 PAAL AI,PAAL,@PaalMind,paal-ai
-The Innovation Game,TIG,@tigfoundation,the-innovation-game
-BitMind,SN34,@BitMindAI,bitmind
 SentismAI,SENTIS,@Sentism_ai,sentismai
 AdEx,ADX,@AdEx_Network,adex
+BitMind,SN34,@BitMindAI,bitmind
 Quack AI,Q,@QuackAI_AI,quack-ai
-Score,SN44,@webuildscore,score
-MyShell,SHELL,@myshell_ai,myshell
 Cudos,CUDOS,@CUDOS_,cudos
-MIA,MIA,@mwa_ia,mia-2
+Score,SN44,@webuildscore,score
 Morphware,XMW,@MorphwareAI,morphware
+MIA,MIA,@mwa_ia,mia-2
 NATIX Network,NATIX,@NATIXNetwork,natix-network
 TARS AI,TAI,@tarsprotocol,tars-protocol
 LimeWire,LMWR,@limewire,limewire-token
-Sportstensor,SN41,@sportstensor,sportstensor
-Hey Anon,ANON,@HeyAnonai,heyanon
+MyShell,SHELL,@myshell_ai,myshell
 Forta,FORT,@FortaNetwork,forta
-Synth,SN50,N/A,synth-2
+Hey Anon,ANON,@HeyAnonai,heyanon
 GENIUS AI,GNUS,N/A,genius-ai
 Assemble AI,ASM,@Assemble_io,assemble-protocol
 Everlyn,LYN,@everlyn_ai,everlyn
-Swarms,SWARMS,@swarms_corp,swarms
-Rei,REI,@ReiNetwork0x,unit-00-rei
-Quantum Compute,SN48,@OpenQuantum_,nextplace
+Synth,SN50,N/A,synth-2
+Sportstensor,SN41,@sportstensor,sportstensor
 TokenFi,TOKEN,@tokenfi,tokenfi
+Rei,REI,@ReiNetwork0x,unit-00-rei
 OpenServ,SERV,@openservai,openserv
+Quantum Compute,SN48,@OpenQuantum_,nextplace
 Ava AI,AVA,@AVA_holo,ava-ai
 NetX,NETX,@netx_world,netx
 RSS3,RSS3,@rss3_,rss3
 Wayfinder,PROMPT,@AIWayfinder,wayfinder
-Hippius,SN75,@hippius_subnet,hippius
+Swarms,SWARMS,@swarms_corp,swarms
 Mamo,MAMO,@mamo,mamo
+Hippius,SN75,@hippius_subnet,hippius
 tao.bot,TAOBOT,@taodotbot,tao-bot
-O Intelligence Coin,OI,@O_fndn,o-intelligence-coin
-Chainbase,C,@ChainbaseHQ,chainbase
-GAIB,GAIB,@gaib_ai,gaib
-QuantixAI,QAI,@QuantixCapital,quantixai
 CreatorBid,BID,@CreatorBid,creatorbid
+Chainbase,C,@ChainbaseHQ,chainbase
+QuantixAI,QAI,@QuantixCapital,quantixai
+GAIB,GAIB,@gaib_ai,gaib
 AITV,AITV,@aitvgg,agentcoin-tv
 404—GEN,SN17,@404gen_,404-gen
-PinLink,PIN,@pinlinkai,pinlink
-LogicNet,SN35,N/A,logicnet
+O Intelligence Coin,OI,@O_fndn,o-intelligence-coin
 Pundi AI,PUNDIAI,@PundiAI,pundi-aifx
+LogicNet,SN35,N/A,logicnet
+PinLink,PIN,@pinlinkai,pinlink
+World3,WAI,@WORLD3_AI,world3
 Quantum Innovate,SN63,@qBitTensorLabs,alpha-trader-exchange-atx
 Arai,AA,@ARAI_Systems,arai
-World3,WAI,@WORLD3_AI,world3
 HAiO,HAIO,@HAiO_Official,haio
 Coral Protocol,CORAL,@Coral_Protocol,coral-protocol
+Codatta,XNY,@codatta_io,codatta
 Nineteen.ai,SN19,N/A,nineteen-ai
 NOVA,SN68,@metanova_labs,nova-3
-Codatta,XNY,@codatta_io,codatta
 TAOHash,SN14,@taohash,taohash
 GaiAI,GAIX,@GaiAIio,gaiai
-Bluwhale,BLUAI,@bluwhaleai,bluwhale
 Akedo,AKE,@akedofun,akedo
-Coldint,SN29,N/A,coldint
 VIVI COIN,VIVI,@lh_vivi_,vivi-coin
-OctaSpace,OCTA,@octa_space,octaspace
 Morpheus AI,MOR,@MorpheusAIs,morpheusai
-Graphite,SN43,@GraphiteSubnet,graphite
+Bluwhale,BLUAI,@bluwhaleai,bluwhale
+Coldint,SN29,N/A,coldint
+OctaSpace,OCTA,@octa_space,octaspace
 Gaia,GAIA,@Gaianet_AI,gaia-3
-Apex,SN1,@macrocosmosai,apex-5
 NEURALAI,NEURAL,@goneuralai,neuralai
-Neuron,NRN,@NRNAgents,neuron
+Graphite,SN43,@GraphiteSubnet,graphite
+Apex,SN1,@macrocosmosai,apex-5
 KRYLL,KRL,@kryll_io,kryll
-Dino Tycoon,TYCOON,@DinoTycoon_Web3,dino-tycoon
 375ai,EAT,@375ai_,375ai
-Altura,ALU,@altura,altura
-Avo,AVO,@avodotso,avo
-MESSIER,M87,@MessierM87,messier
-Bitcast,SN93,@Bitcast_network,bitcast
-NetMind Token,NMT,@NetmindAi,netmind-token
+Dino Tycoon,TYCOON,@DinoTycoon_Web3,dino-tycoon
+Neuron,NRN,@NRNAgents,neuron
 GamerCoin,GHX,@GamerHashCom,gamercoin
+MESSIER,M87,@MessierM87,messier
 Galeon,GALEON,@GaleonCare,galeon
-ReadyAI,SN33,@ReadyAI_,readyai
+Altura,ALU,@altura,altura
+NetMind Token,NMT,@NetmindAi,netmind-token
+Avo,AVO,@avodotso,avo
+Bitcast,SN93,@Bitcast_network,bitcast
 Torus,TORUS,@torus_network,torus
-Dippy,SN11,@dippy_ai,dippy
-SIRE,SIRE,@sire_agent,draiftking
+ReadyAI,SN33,@ReadyAI_,readyai
 GIZA,GIZA,@gizatechxyz,giza
+Dippy,SN11,@dippy_ai,dippy
 Caesar,CAESAR,@caesar_data,caesar
-TriasLab,TRIAS,@triaslab,trias-token
-Data Universe,SN13,@macrocosmosai,data-universe
-Agoras: Tau Net,AGRS,N/A,agoras-currency-of-tau
+SIRE,SIRE,@sire_agent,draiftking
 Daydreams,DREAMS,@daydreamsagents,daydreams
-Fireverse,FIR,@FireverseV,fireverse
+TriasLab,TRIAS,@triaslab,trias-token
 Singularry,SINGULARRY,@singularryai,singularry
-EfficientFrontier,SN53,N/A,efficientfrontier
+Agoras: Tau Net,AGRS,N/A,agoras-currency-of-tau
+Data Universe,SN13,@macrocosmosai,data-universe
 ai16z,AI16Z,@pmairca,ai16z
-NodeAI,GPU,@NodeAIETH,nodeai
+Fireverse,FIR,@FireverseV,fireverse
+EfficientFrontier,SN53,N/A,efficientfrontier
 Dolphin,DPHN,@dphnAI,dolphin-2
+NodeAI,GPU,@NodeAIETH,nodeai
 IceCream AI,ICECREAM,@kol4u_xyz,icecream-ai
 Covalent X Token,CXT,@Covalent_HQ,covalent-x-token
-SWE - Rizzo,SN45,@gen42ai,swe-rizzo
 717ai by Virtuals,WIRE,@717CapitalAI,717ai-by-virtuals
 0x0.ai: AI Smart Contract,0X0,@0x0exchange,0x0-ai-ai-smart-contract
-Kora,SN71,N/A,kora
+SWE - Rizzo,SN45,@gen42ai,swe-rizzo
 Opulous,OPUL,@opulousapp,opulous
-Sundae_Bar,SN121,N/A,sundae-bar
-HUMAN Protocol,HMT,@human_protocol,human-protocol
-Xterio,XTER,@XterioGames,xterio
-basilica,SN39,@basilic_ai,w-ai-parked
+Kora,SN71,N/A,kora
 World Friendship Cash,WFCA,@wfca_global,wfca
+Sundae_Bar,SN121,N/A,sundae-bar
+Xterio,XTER,@XterioGames,xterio
 Aleph Cloud,ALEPH,@aleph_im,aleph
+basilica,SN39,@basilic_ai,w-ai-parked
 Spectre AI,SPECTRE,@Spectre__AI,spectre-ai
-Codec Flow,CODEC,@Codecopenflow,codec-flow
-GLADIUS,GLADIUS,@ArenaGladius,gladius
+HUMAN Protocol,HMT,@human_protocol,human-protocol
 Numbers Protocol,NUM,@numbersprotocol,numbers-protocol
-Zeus,SN18,N/A,zeus-5
+GLADIUS,GLADIUS,@ArenaGladius,gladius
+Codec Flow,CODEC,@Codecopenflow,codec-flow
 VPay,VPAY,@VPAY_Global,vpay
+Zeus,SN18,N/A,zeus-5
 Dojo,SN52,@TensorplexLabs,dojo-3
-Liquidity,SN77,N/A,liquidity
 Safe Scan,SN76,@SAFESCAN_AI,safe-scan
-Aubrai by Bio,AUBRAI,@Aubrai_,aubrai-by-bio
-Sleepless AI,AI,@SleeplessAI_Lab,sleepless-ai
 ArAIstotle,FACY,@ArAIstotle,araistotle
+Liquidity,SN77,N/A,liquidity
 Edge,EDGE,@edgenetwork,edge
-Maiga,MAIGA,@Maiga_AI,maiga
-grail,SN81,@grail_ai,patrol-tao-com
+Sleepless AI,AI,@SleeplessAI_Lab,sleepless-ai
 Captain Kuma,KUMA,@BetakkumaAI,captain-kuma
+Maiga,MAIGA,@Maiga_AI,maiga
+Aubrai by Bio,AUBRAI,@Aubrai_,aubrai-by-bio
+grail,SN81,@grail_ai,patrol-tao-com
 Inspect,INSP,@inspectxyz,inspect
-PaLM AI,PALM,@palmaierc,palm-ai
-Vidaio,SN85,@vidaio_,vidaio
 PublicAI,PUBLIC,@PublicAI_,publicai
+Vidaio,SN85,@vidaio_,vidaio
 Rhetor,RT,@rhetor_ai,rhetor
+PaLM AI,PALM,@palmaierc,palm-ai
 Botto,BOTTO,@bottoproject,botto
 Bettensor,SN30,@Bettensor,bettensor
-Cel AI,SN127,N/A,cel-ai
 AstraAI,ASTRA,N/A,astraai
+Cel AI,SN127,N/A,cel-ai
 Bitads,SN16,N/A,bitads
-Sturdy,SN10,N/A,sturdy-subnet
+SingularityNET,AGIX,@SingularityNET,singularitynet
 Synternet,SYNT,@synternet_com,synternet-synt
 WAGMI Games,WAGMIGAMES,@wagmigameco,wagmi-game-2
+Sturdy,SN10,N/A,sturdy-subnet
+HyperGPT,HGPT,@hypergpt,hypergpt
+FROK,FROK,@frok_ai,frok-ai
 Compute Horde,SN12,@ComputeHorde,compute-horde
 Infinite Games,SN6,@Playinfgames,infinite-games
-Bitsec.ai,SN60,@bitsecai,bitsec-ai
-RESI,SN46,@goneuralai,neural3d
