@@ -3,9 +3,9 @@ name: 🤖 Scrape AI Coin Data
 on:
   # Allows manual execution from the GitHub UI
   workflow_dispatch:
-  # Runs every day at 10:00 AM UTC
+  # Runs every month 25th
   schedule:
-    - cron: '0 10 */3 * *'
+    - cron: '0 0 25 * *'
 
 jobs:
   scrape_and_push:
